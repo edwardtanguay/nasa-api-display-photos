@@ -1,0 +1,35 @@
+- x create state variable: photos 
+- x repository
+- x import axios
+- x get image via axios from NASA API and show it
+- x IIFE
+- x try/catch
+- x show one day image with caption/date, small size
+- x get all 7 days from previous week
+	- 2020-01-10
+		- https://epic.gsfc.nasa.gov/api/natural/date/2022-01-10
+		- https://epic.gsfc.nasa.gov/api/natural/date/2022-01-11
+		- https://epic.gsfc.nasa.gov/api/natural/date/2022-01-12
+		- https://epic.gsfc.nasa.gov/api/natural/date/2022-01-13
+		- https://epic.gsfc.nasa.gov/api/natural/date/2022-01-14
+		- https://epic.gsfc.nasa.gov/api/natural/date/2022-01-15
+		- https://epic.gsfc.nasa.gov/api/natural/date/2022-01-16
+
+- .. new repository: nasa-api-display-photos
+- .. dropdown of all dates
+	- when selected, show date
+	- reload data on dropdown change
+
+- make display a component
+	- smaller and new title, large time display
+	- prev and next button that move backward and forward
+	
+- make pages with react router
+	- make pages: 
+		- >> Custom carousel
+		- >> react-images-viewer 
+		- >> animation
+		- >> Bootstrap carousel
+			- use https://getbootstrap.com/docs/5.1/components/carousel
+
+
