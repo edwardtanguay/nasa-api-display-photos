@@ -15,7 +15,7 @@
 		- https://epic.gsfc.nasa.gov/api/natural/date/2022-01-15
 		- https://epic.gsfc.nasa.gov/api/natural/date/2022-01-16
 
-- .. new repository: nasa-api-display-photos
+- x new repository: nasa-api-display-photos
 - .. dropdown of all dates
 	- when selected, show date
 	- reload data on dropdown change
